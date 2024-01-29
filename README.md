@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Bus Ticket Reservation System implemented in C++. It provides various functionalities and the system is designed to handle both female and male passengers, providing a user-friendly interface for seamless interaction.
+This project is a Bus Ticket Reservation System implemented in C++. It provides various functionalities with a user-friendly interface for seamless interaction.
 
 ## Features
 
